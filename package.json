@@ -46,7 +46,6 @@
     "browser-sync": "^2.9.11",
     "chai": "^3.0.0",
     "chalk": "^1.1.1",
-    "contentful": "^2.1.2",
     "fs-extra": "^0.24.0",
     "gulp-cached": "^1.1.0",
     "gulp-clean": "^0.3.1",
